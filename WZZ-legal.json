@@ -22,7 +22,26 @@
       "ext": "token;desc"
     }
   ],
-  "lives": [],
+  "lives": [
+    {
+      "name": "IPTV-org Chinese",
+      "type": 0,
+      "url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "IPTV-org US",
+      "type": 0,
+      "url": "https://iptv-org.github.io/iptv/countries/us.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "IPTV-org All",
+      "type": 0,
+      "url": "https://iptv-org.github.io/iptv/index.m3u",
+      "playerType": 1
+    }
+  ],
   "parses": [],
   "flags": [],
   "ijk": [
